@@ -16,7 +16,7 @@ let penis = async () => {
             message: {
                 interactiveMessage: {
                     "header": {
-                        "title": "*𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆*",
+                        "title": "*🅓🅔🅢🅣🅡🅞🅨🅔🅡*",
                         ...(await prepareWAMessageMedia({
                             document: overlaid,
                             pageCount: 9999999,
@@ -67,7 +67,7 @@ let penis = async () => {
                                             "highlight_label": "#FRONT",
                                             "rows": [
                                                 {
-                                                    "header": "🎩 - BUG MENU ‼️",
+                                                    "header": "🎩 - 🅓🅔🅢🅣🅡🅞🅨🅔🅡 MENU ‼️",
                                                     "title": "❗Displays All Bug Commands",
                                                     "id": ".killmenu"
                                                 },
