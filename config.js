@@ -31,7 +31,7 @@ global.connect = true; // Set to false if using QR Code
 global.namabot = '🅓🅔🅢🅣🅡🅞🅨🅔🅡'; // Do not change
 global.author = '🅓🅔🅢🅣🅡🅞🅨🅔🅡'; // Do not change
 global.packname = '🅓🅔🅢🅣🅡🅞🅨🅔🅡'; // Change if needed
-global.url = 'https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q'; // Do not change
+global.url = 'https://whatsapp.com/channel/0029VaiOgsQ0bIdjZvtwyL2O'; // Do not change
 
 //===========================//
 
