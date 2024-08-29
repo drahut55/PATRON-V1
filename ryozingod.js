@@ -3,7 +3,7 @@
 Kalo Mau Recode Kasih Credit gw ›
 TheZetsubXygen / Ryo
 
-📝 > Created By PATRON 🚹
+📝 > Created By 🅓🅔🅢🅣🅡🅞🅨🅔🅡
 🖥️ > Base Ori By BLUE DEMON
                
 */
